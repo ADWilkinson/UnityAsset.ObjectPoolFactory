@@ -28,7 +28,7 @@ public class ObjectPoolFactory : MonoBehaviour
         script.PoolQuantity = PoolQuantity;
         script.ObjectsToPool = ObjectsToPool;
 
-        script.ContructPooler();
+        script.ConstructPooler();
     }
 
     public void ClearAllOptions()

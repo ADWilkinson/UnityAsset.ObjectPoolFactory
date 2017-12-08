@@ -13,7 +13,7 @@ public class ObjectPool : MonoBehaviour
     public int PoolQuantity { get; set; }
     public bool EnableGrowth { get; set; }
 
-    public void ContructPooler()
+    public void ConstructPooler()
     {   
         
         PooledObjects = new List<GameObject>();
@@ -40,7 +40,7 @@ public class ObjectPool : MonoBehaviour
             }
         }
 
-        if (EnableGrowth)
+          if (EnableGrowth)
         {
             foreach (var obj in ObjectsToPool)
             {

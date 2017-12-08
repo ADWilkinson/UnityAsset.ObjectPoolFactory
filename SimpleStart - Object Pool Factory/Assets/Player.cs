@@ -4,8 +4,6 @@ using UnityEngine;
 
 public class Player : MonoBehaviour
 {
-	public GameObject Projectile;
-
 	public string PoolToUse;
 
 	[SerializeField]
