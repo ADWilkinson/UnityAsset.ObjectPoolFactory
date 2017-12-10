@@ -10,100 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Player.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Player.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-              <folding>
-                <marker date="1512680006908" expanded="false" signature="6:78" ph="..." />
-                <marker date="1512680006908" expanded="true" signature="115:721" ph="{...}" />
-                <marker date="1512680006908" expanded="true" signature="239:283" ph="{...}" />
-                <marker date="1512680006908" expanded="true" signature="337:413" ph="{...}" />
-                <marker date="1512680006908" expanded="true" signature="380:410" ph="{...}" />
-                <marker date="1512680006908" expanded="true" signature="438:719" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ObjectPool.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ObjectPool.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="43" column="9" lean-forward="true" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
-              <folding>
-                <marker date="1512680472795" expanded="false" signature="6:150" ph="..." />
-                <marker date="1512680472795" expanded="true" signature="191:1389" ph="{...}" />
-                <marker date="1512680472795" expanded="true" signature="458:828" ph="{...}" />
-                <marker date="1512680472795" expanded="true" signature="572:822" ph="{...}" />
-                <marker date="1512680472795" expanded="true" signature="629:812" ph="{...}" />
-                <marker date="1512680472795" expanded="true" signature="869:1387" ph="{...}" />
-                <marker date="1512680472795" expanded="true" signature="938:1080" ph="{...}" />
-                <marker date="1512680472795" expanded="true" signature="1001:1070" ph="{...}" />
-                <marker date="1512680472795" expanded="true" signature="1109:1359" ph="{...}" />
-                <marker date="1512680472795" expanded="true" signature="1166:1349" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Projectile.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Projectile.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding>
-                <marker date="1512586064247" expanded="false" signature="6:78" ph="..." />
-                <marker date="1512586064247" expanded="true" signature="120:294" ph="{...}" />
-                <marker date="1512586064247" expanded="true" signature="154:206" ph="{...}" />
-                <marker date="1512586064247" expanded="true" signature="243:292" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Pickup.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Pickup.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="11" column="29" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="29" />
-              <folding>
-                <marker date="1512679960253" expanded="false" signature="6:78" ph="..." />
-                <marker date="1512679960253" expanded="true" signature="116:252" ph="{...}" />
-                <marker date="1512679960253" expanded="true" signature="147:183" ph="{...}" />
-                <marker date="1512679960253" expanded="true" signature="213:250" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ObjectPoolFactory.cs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ObjectPoolFactory.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="26" column="24" lean-forward="false" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="24" />
-              <folding>
-                <marker date="1512680472745" expanded="false" signature="6:78" ph="..." />
-                <marker date="1512680472745" expanded="true" signature="126:1131" ph="{...}" />
-                <marker date="1512680472745" expanded="true" signature="460:534" ph="{...}" />
-                <marker date="1512680472745" expanded="true" signature="575:944" ph="{...}" />
-                <marker date="1512680472745" expanded="true" signature="979:1129" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Player.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Projectile.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Editor/ObjectPoolFactoryEditor.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Pickup.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ObjectPoolFactory.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ObjectPool.cs" root0="FORCE_HIGHLIGHTING" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -112,10 +19,14 @@
         <option value="$PROJECT_DIR$/Assets/Bullet.cs" />
         <option value="$PROJECT_DIR$/Assets/Projectile.cs" />
         <option value="$PROJECT_DIR$/Assets/Pickup.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/ObjectPoolFactory.cs" />
         <option value="$PROJECT_DIR$/Assets/Player.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/Editor/ObjectPoolFactoryEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Projectile.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pickup.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/ObjectPool.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ObjectPoolFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/IObjectPool.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Editor/ObjectPoolFactoryEditor.cs" />
       </list>
     </option>
   </component>
@@ -126,8 +37,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="240" />
-    <option name="y" value="130" />
+    <option name="x" value="383" />
+    <option name="y" value="182" />
     <option name="width" value="1440" />
     <option name="height" value="780" />
   </component>
@@ -146,7 +57,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -154,16 +64,56 @@
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="SimpleStart - Object Pool Factory (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SimpleStart - Object Pool Factory (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp (synchronizing...)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SimpleStart - Object Pool Factory (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp (synchronizing...)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SimpleStart - Object Pool Factory (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp-Editor (synchronizing...)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SimpleStart - Object Pool Factory (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp-Editor (synchronizing...)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SimpleStart - Object Pool Factory (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp-Editor (synchronizing...)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Scripts" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="SimpleStart - Object Pool Factory (3 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp-Editor (synchronizing...)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Scripts" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Editor" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/User/Documents/Github/UnityAsset.ObjectPoolFactory/SimpleStart - Object Pool Factory/Assets/Scripts/ObjectPoolFactory.cs&#10;cache&#9;null&#9;null" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -178,10 +128,13 @@
     </option>
   </component>
   <component name="RunManager" selected="Unity Debug.Attach to Unity Editor">
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" pid="1012" />
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" pid="8252" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\User\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -193,11 +146,12 @@
       <workItem from="1512585738858" duration="807000" />
       <workItem from="1512633187449" duration="2195000" />
       <workItem from="1512679953702" duration="658000" />
+      <workItem from="1512908235784" duration="4687000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3660000" />
+    <option name="totallyTimeSpent" value="8347000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -209,7 +163,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -219,11 +173,11 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25799572" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26066098" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3995657" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39892474" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -241,55 +195,24 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <option name="time" value="7" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/Player.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1512680006908" expanded="false" signature="6:78" ph="..." />
-            <marker date="1512680006908" expanded="true" signature="115:721" ph="{...}" />
-            <marker date="1512680006908" expanded="true" signature="239:283" ph="{...}" />
-            <marker date="1512680006908" expanded="true" signature="337:413" ph="{...}" />
-            <marker date="1512680006908" expanded="true" signature="380:410" ph="{...}" />
-            <marker date="1512680006908" expanded="true" signature="438:719" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ObjectPool.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <marker date="1512680472795" expanded="false" signature="6:150" ph="..." />
-            <marker date="1512680472795" expanded="true" signature="191:1389" ph="{...}" />
-            <marker date="1512680472795" expanded="true" signature="458:828" ph="{...}" />
-            <marker date="1512680472795" expanded="true" signature="572:822" ph="{...}" />
-            <marker date="1512680472795" expanded="true" signature="629:812" ph="{...}" />
-            <marker date="1512680472795" expanded="true" signature="869:1387" ph="{...}" />
-            <marker date="1512680472795" expanded="true" signature="938:1080" ph="{...}" />
-            <marker date="1512680472795" expanded="true" signature="1001:1070" ph="{...}" />
-            <marker date="1512680472795" expanded="true" signature="1109:1359" ph="{...}" />
-            <marker date="1512680472795" expanded="true" signature="1166:1349" ph="{...}" />
-          </folding>
+        <state relative-caret-position="450">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Projectile.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
+        <state relative-caret-position="240">
           <caret line="16" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <marker date="1512586064247" expanded="false" signature="6:78" ph="..." />
-            <marker date="1512586064247" expanded="true" signature="120:294" ph="{...}" />
-            <marker date="1512586064247" expanded="true" signature="154:206" ph="{...}" />
-            <marker date="1512586064247" expanded="true" signature="243:292" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -297,43 +220,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="29" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="29" />
-          <folding>
-            <marker date="1512679960253" expanded="false" signature="6:78" ph="..." />
-            <marker date="1512679960253" expanded="true" signature="116:252" ph="{...}" />
-            <marker date="1512679960253" expanded="true" signature="147:183" ph="{...}" />
-            <marker date="1512679960253" expanded="true" signature="213:250" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Editor/ObjectPoolFactoryEditor.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="40" column="68" lean-forward="false" selection-start-line="40" selection-start-column="68" selection-end-line="40" selection-end-column="68" />
-          <folding>
-            <marker date="1512483820096" expanded="false" signature="6:37" ph="..." />
-            <marker date="1512483820096" expanded="true" signature="55:2279" ph="{...}" />
-            <marker date="1512483820096" expanded="true" signature="194:2277" ph="{...}" />
-            <marker date="1512483820096" expanded="true" signature="279:353" ph="{...}" />
-            <marker date="1512483820096" expanded="true" signature="400:2271" ph="{...}" />
-            <marker date="1512483820096" expanded="true" signature="898:1000" ph="{...}" />
-            <marker date="1512483820096" expanded="true" signature="1958:2039" ph="{...}" />
-            <marker date="1512483820096" expanded="true" signature="2186:2261" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/ObjectPoolFactory.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="25" column="35" lean-forward="false" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
-          <folding>
-            <marker date="1512680472745" expanded="false" signature="6:78" ph="..." />
-            <marker date="1512680472745" expanded="true" signature="126:1131" ph="{...}" />
-            <marker date="1512680472745" expanded="true" signature="460:534" ph="{...}" />
-            <marker date="1512680472745" expanded="true" signature="575:944" ph="{...}" />
-            <marker date="1512680472745" expanded="true" signature="979:1129" ph="{...}" />
-          </folding>
+        <state relative-caret-position="390">
+          <caret line="26" column="24" lean-forward="false" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ObjectPool.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="9" lean-forward="true" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -341,14 +244,55 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1512680006908" expanded="false" signature="6:78" ph="..." />
-            <marker date="1512680006908" expanded="true" signature="115:721" ph="{...}" />
-            <marker date="1512680006908" expanded="true" signature="239:283" ph="{...}" />
-            <marker date="1512680006908" expanded="true" signature="337:413" ph="{...}" />
-            <marker date="1512680006908" expanded="true" signature="380:410" ph="{...}" />
-            <marker date="1512680006908" expanded="true" signature="438:719" ph="{...}" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ObjectPool.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Projectile.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Pickup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="29" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Editor/ObjectPoolFactoryEditor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="40" column="68" lean-forward="false" selection-start-line="40" selection-start-column="68" selection-end-line="40" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ObjectPoolFactory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="25" column="35" lean-forward="false" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Player.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -356,92 +300,81 @@
     <entry file="file://$PROJECT_DIR$/Assets/Bullet.cs" />
     <entry file="file://$PROJECT_DIR$/Assets/Projectile.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
+        <state relative-caret-position="240">
           <caret line="16" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding>
-            <marker date="1512586064247" expanded="false" signature="6:78" ph="..." />
-            <marker date="1512586064247" expanded="true" signature="120:294" ph="{...}" />
-            <marker date="1512586064247" expanded="true" signature="154:206" ph="{...}" />
-            <marker date="1512586064247" expanded="true" signature="243:292" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Player.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding>
-            <marker date="1512680006908" expanded="false" signature="6:78" ph="..." />
-            <marker date="1512680006908" expanded="true" signature="115:721" ph="{...}" />
-            <marker date="1512680006908" expanded="true" signature="239:283" ph="{...}" />
-            <marker date="1512680006908" expanded="true" signature="337:413" ph="{...}" />
-            <marker date="1512680006908" expanded="true" signature="380:410" ph="{...}" />
-            <marker date="1512680006908" expanded="true" signature="438:719" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ObjectPoolFactory.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="26" column="24" lean-forward="false" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="24" />
-          <folding>
-            <marker date="1512680472745" expanded="false" signature="6:78" ph="..." />
-            <marker date="1512680472745" expanded="true" signature="126:1131" ph="{...}" />
-            <marker date="1512680472745" expanded="true" signature="460:534" ph="{...}" />
-            <marker date="1512680472745" expanded="true" signature="575:944" ph="{...}" />
-            <marker date="1512680472745" expanded="true" signature="979:1129" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Editor/ObjectPoolFactoryEditor.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="48" column="0" lean-forward="true" selection-start-line="48" selection-start-column="0" selection-end-line="48" selection-end-column="0" />
-          <folding>
-            <marker date="1512483820096" expanded="false" signature="6:37" ph="..." />
-            <marker date="1512483820096" expanded="true" signature="55:2279" ph="{...}" />
-            <marker date="1512483820096" expanded="true" signature="194:2277" ph="{...}" />
-            <marker date="1512483820096" expanded="true" signature="279:353" ph="{...}" />
-            <marker date="1512483820096" expanded="true" signature="400:2271" ph="{...}" />
-            <marker date="1512483820096" expanded="true" signature="898:1000" ph="{...}" />
-            <marker date="1512483820096" expanded="true" signature="1958:2039" ph="{...}" />
-            <marker date="1512483820096" expanded="true" signature="2186:2261" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Pickup.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
+        <state relative-caret-position="165">
           <caret line="11" column="29" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="29" />
-          <folding>
-            <marker date="1512679960253" expanded="false" signature="6:78" ph="..." />
-            <marker date="1512679960253" expanded="true" signature="116:252" ph="{...}" />
-            <marker date="1512679960253" expanded="true" signature="147:183" ph="{...}" />
-            <marker date="1512679960253" expanded="true" signature="213:250" ph="{...}" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Player.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Projectile.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Pickup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="15" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Player.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/ObjectPool.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="43" column="9" lean-forward="true" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
-          <folding>
-            <marker date="1512680472795" expanded="false" signature="6:150" ph="..." />
-            <marker date="1512680472795" expanded="true" signature="191:1389" ph="{...}" />
-            <marker date="1512680472795" expanded="true" signature="458:828" ph="{...}" />
-            <marker date="1512680472795" expanded="true" signature="572:822" ph="{...}" />
-            <marker date="1512680472795" expanded="true" signature="629:812" ph="{...}" />
-            <marker date="1512680472795" expanded="true" signature="869:1387" ph="{...}" />
-            <marker date="1512680472795" expanded="true" signature="938:1080" ph="{...}" />
-            <marker date="1512680472795" expanded="true" signature="1001:1070" ph="{...}" />
-            <marker date="1512680472795" expanded="true" signature="1109:1359" ph="{...}" />
-            <marker date="1512680472795" expanded="true" signature="1166:1349" ph="{...}" />
-          </folding>
+        <state relative-caret-position="45">
+          <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ObjectPoolFactory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="3" lean-forward="false" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/IObjectPool.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Editor/ObjectPoolFactoryEditor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="29" column="14" lean-forward="false" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -2,14 +2,14 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Projectile : MonoBehaviour {
-    
+public class Pickup : MonoBehaviour
+{
     private void OnEnable()
     {
-        Invoke("RecycleProjectile", 4);
+        Invoke("RecyclePickup", 4);
     }
 
-    public void RecycleProjectile()
+    public void RecyclePickup()
     {
         gameObject.SetActive(false);
     }

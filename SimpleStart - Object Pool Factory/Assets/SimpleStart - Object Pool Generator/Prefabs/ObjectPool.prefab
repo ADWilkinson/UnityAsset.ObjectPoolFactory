@@ -51,3 +51,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 698efec4609767e4793e015514b3b7a7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  PooledObjects: []
