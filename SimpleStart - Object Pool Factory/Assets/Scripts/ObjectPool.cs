@@ -6,25 +6,33 @@ using UnityEngine;
 
 public class ObjectPool : MonoBehaviour
 {
-    public string PoolName { get; set; }
+    [SerializeField]
+    private List<GameObject> _pooledObjects;
+    [SerializeField]
+    private bool _growthEnabled;
+    [SerializeField]
+    private List<GameObject> _uniqueObjects;
     
-    public List<GameObject> PooledObjects;
+    /* Properties for editor construction */
     public List<GameObject> ObjectsToPool { get; set; }
     public int PoolQuantity { get; set; }
     public bool EnableGrowth { get; set; }
+    public string PoolName { get; set; }
 
     public void ConstructPooler()
-    {   
+    {
+        _growthEnabled = EnableGrowth;
+        _pooledObjects = ObjectsToPool;
         
-        PooledObjects = new List<GameObject>();
+        _pooledObjects = new List<GameObject>();
 
         for (int i = 0; i < PoolQuantity; i++)
         {
-            foreach (var obj in ObjectsToPool)
+            foreach (var obj in _pooledObjects)
             {
                 GameObject objToAdd = Instantiate(obj, transform);
                 objToAdd.SetActive(false);
-                PooledObjects.Add(objToAdd);
+                _pooledObjects.Add(objToAdd);
             }
         }
     }
@@ -32,21 +40,21 @@ public class ObjectPool : MonoBehaviour
     public GameObject GetPooledObject()
     {
         
-        for (int i = 0; i < PooledObjects.Count; i++)
+        for (int i = 0; i < _pooledObjects.Count; i++)
         {
-            if (!PooledObjects[i].activeInHierarchy)
+            if (!_pooledObjects[i].activeInHierarchy)
             {
-                return PooledObjects[i];
+                return _pooledObjects[i];
             }
         }
 
-          if (EnableGrowth)
+        if (_growthEnabled)
         {
-            foreach (var obj in ObjectsToPool)
+            foreach (var obj in _uniqueObjects)
             {
                 GameObject objToAdd = Instantiate(obj, transform);
                 objToAdd.SetActive(false);
-                PooledObjects.Add(objToAdd);
+                _pooledObjects.Add(objToAdd);
             }
         }
 
